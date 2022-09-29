@@ -23,7 +23,9 @@ public class main1 {
         String apr = "ir valsts Ziemeļeiropā, viena no trim Baltijas valstīm. ";
         String robez = "Tā robežojas ar Krieviju austrumos un Latviju dienvidos, tai ir jūras robeža ar Somiju, Zviedriju un Latviju.";
         String apr3 = "Igaunija atrodas jaukto mežu dabas zonā. Gandrīz pusi Igaunijas teritorijas klāj meži, kuros aug aptuveni 90 koku un krūmu sugu. Visizplatītākās sugas ir priedes, egles, bērzi un apses. Mazāk aug ozoli, kļavas, gobas un oši. Otru valsts pusi aptuveni vienādās daļās veido pļavas un purvi, kuros ir sastopamas aptuveni 1500 augu sugas.";
-        System.out.println(valsts + apr + robez + apr3 );
+        System.out.println(valsts + apr);
+        System.out.println(valsts + "dzīvo : " + skaits + " iedzīvotāji .");
+        System.out.println(robez + apr3 );
 
 
 

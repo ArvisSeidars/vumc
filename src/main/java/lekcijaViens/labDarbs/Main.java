@@ -83,43 +83,6 @@ public class Main {
         rezultats = 11%2;
         System.out.println(rezultats);
 
-        int x = 5;
-        int y = -45;
-
-        int rezultats = x + y;
-        System.out.println(rezultats);
-
-        rezultats = x - y;
-        System.out.println(rezultats);
-
-        rezultats = x * y;
-        System.out.println(rezultats);
-
-        rezultats = 10 / 2;
-        System.out.println(rezultats);
-        rezultats = 13 % 2;
-        System.out.println(rezultats);
-
-        rezultats = 5*(3+7)/2;
-        System.out.println(rezultats);
-
-        rezultats = 5*(3+7)/4;
-        System.out.println(rezultats);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
