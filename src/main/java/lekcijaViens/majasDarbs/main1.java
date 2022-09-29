@@ -41,7 +41,20 @@ public class main1 {
         System.out.println(rezultats);
         rezultats = 4%3;
         System.out.println(rezultats);
-
+        rezultats = a+b+c;
+        System.out.println(rezultats);
+        rezultats = a-b+c;
+        System.out.println(rezultats);
+        rezultats = c*a/b;
+        System.out.println(rezultats);
+        rezultats = c * (b+a-c) + a - b * c;
+        System.out.println(rezultats);
+        rezultats = b - c *(a+c-b) / c;
+        System.out.println(rezultats);
+        rezultats = c+c+c-(a-b)+(c*a);
+        System.out.println(rezultats);
+        rezultats = a/c-b+(c+a);
+        System.out.println(rezultats);
 
 
 
